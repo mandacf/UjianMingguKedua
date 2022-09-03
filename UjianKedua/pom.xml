@@ -3,4 +3,15 @@
   <groupId>UjianMingguKedua</groupId>
   <artifactId>UjianKedua</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.6.1</version>
+    <scope>test</scope>
+</dependency>
+  </dependencies>
+  
 </project>
